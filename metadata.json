@@ -1,0 +1,5 @@
+{
+  "name": "VibeWall",
+  "description": "A mobile-first AI wallpaper generator that creates 9:16 visuals based on your vibe.",
+  "requestFramePermissions": []
+}
